@@ -1,2 +1,4 @@
 aqui agora vou testar o git status dnv
 para ver sua resposta
+
+agora vou testar subir apenas um arquivo com o git add
